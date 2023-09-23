@@ -1,0 +1,15 @@
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\bin\Debug\net6.0\Exemple009_IntroArrey.exe
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\bin\Debug\net6.0\Exemple009_IntroArrey.deps.json
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\bin\Debug\net6.0\Exemple009_IntroArrey.runtimeconfig.json
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\bin\Debug\net6.0\Exemple009_IntroArrey.dll
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\bin\Debug\net6.0\Exemple009_IntroArrey.pdb
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\obj\Debug\net6.0\Exemple009_IntroArrey.csproj.AssemblyReference.cache
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\obj\Debug\net6.0\Exemple009_IntroArrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\obj\Debug\net6.0\Exemple009_IntroArrey.AssemblyInfoInputs.cache
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\obj\Debug\net6.0\Exemple009_IntroArrey.AssemblyInfo.cs
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\obj\Debug\net6.0\Exemple009_IntroArrey.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\obj\Debug\net6.0\Exemple009_IntroArrey.dll
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\obj\Debug\net6.0\refint\Exemple009_IntroArrey.dll
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\obj\Debug\net6.0\Exemple009_IntroArrey.pdb
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\obj\Debug\net6.0\Exemple009_IntroArrey.genruntimeconfig.cache
+C:\Users\Женя\Desktop\Examples\Exemple009_IntroArrey\obj\Debug\net6.0\ref\Exemple009_IntroArrey.dll
